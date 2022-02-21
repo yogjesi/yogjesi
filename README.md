@@ -11,7 +11,7 @@
 
 ## 🌱 I’m currently learning ...
 #### - Python & Django
-[![Python](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/yogjesi/S.I.B)
 #### - Javascript & Vue.js
 #### - ROS (now I've just started!)
 
