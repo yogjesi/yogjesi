@@ -17,7 +17,7 @@
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=black)](github.com/yogjesi/S.I.B)
 
 #### - ROS 2 (now I've just started!)
-[![ROS2](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS2&logoColor=white)](github.com/yogjesi/)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)](github.com/yogjesi/)
 
 
 
