@@ -16,9 +16,8 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=black)](github.com/yogjesi/S.I.B)
 
-#### - ROS (now I've just started!)
-
-
+#### - ROS 2 (now I've just started!)
+[![ROS2](https://img.shields.io/badge/ROS 2-22314E?style=flat-square&logo=ros&logoColor=white)](github.com/yogjesi/)
 
 
 
