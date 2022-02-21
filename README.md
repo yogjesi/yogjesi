@@ -13,6 +13,9 @@
 #### - Python & Django
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/yogjesi/S.I.B)
 #### - Javascript & Vue.js
+[![JS](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](github.com/yogjesi/S.I.B)
+
+
 #### - ROS (now I've just started!)
 
 
