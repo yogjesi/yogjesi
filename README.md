@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Jiwon's%20git&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Jiwon's%20git&fontSize=50&animation=fadeIn)
 
 
 # Hi there 👋
