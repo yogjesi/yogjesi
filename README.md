@@ -27,7 +27,7 @@
 
 
 ## 📫 How to reach me: ...
-#### runtoeternity@naver.com
+#### [E-mail](runtoeternity@naver.com)
 
 
 
