@@ -19,6 +19,9 @@
 #### - ROS 2 (now I've just started!)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)](github.com/yogjesi/)
 
+#### - Tools
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)]
+
 
 
 ## 🔭 I’m currently studying in  ...
