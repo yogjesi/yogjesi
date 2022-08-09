@@ -25,7 +25,8 @@
 
 
 ## 🔭 I’m currently studying in  ...
-#### SSAFY
+#### SSAFY (2021.07~2022.06)
+#### Kubernetes (K-Digital Training, 2022.08~)
 
 
 ## My Projects
@@ -35,22 +36,16 @@
 
 ## 📫 How to reach me: ...
 #### [E-mail](runtoeternity@naver.com)
+#### [Blog](https://blog.naver.com/runtoeternity)
 
 
 
 
 
 
-## ⚡ Fun fact: ...
+## ⚡ Another info...
 #### My major is 'Electronic Material Science Engineering'!
 #### And I majored 'English and literature' also.
-
-
-
-
-
-how about 'readme'? Was it interesting? I hope you enjoy my place and have fun!
-
 
 
 
