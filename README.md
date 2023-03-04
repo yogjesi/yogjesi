@@ -7,9 +7,7 @@
 
 if you want to read my portfolio, [Click Here](https://www.notion.so/Jiwon-s-Portfolio-ed735ae41a4944089ab4cedfc7a2c419?pvs=4)!
 
-
-
-
+<br>
 
 ## 🎓Learned
 
@@ -27,19 +25,14 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 #### Others
 
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)](github.com/yogjesi/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)]() ![AWS EC2](https://img.shields.io/badge/AWS EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS S3-569A31?style=flat-round&logo=amazons3&logoColor=black)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)](github.com/yogjesi/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)](github.com/yogjesi/) [![AWS EC2](https://img.shields.io/badge/AWS EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)](github.com/yogjesi/) [![AWS S3](https://img.shields.io/badge/AWS S3-569A31?style=flat-round&logo=amazons3&logoColor=black)](github.com/yogjesi/)
 
-
-
-
-
+<br>
 
 ## 🌱 I’m currently learning ...
 #### [JAVA](https://github.com/yogjesi/javastudy)
 
-
-
-
+<br>
 
 ## 🔭 BootCamp
 #### SSAFY (2021.07~2022.06)
@@ -50,10 +43,7 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 - [Agabot](https://grey-beryllium-938.notion.site/df430886ae9f475ca2ab128e4a7c9989)
 - [SSACOM](https://ninth-tax-ce2.notion.site/c000cf794ec14a3e875947da995ed7ce)
 
-
-
-
-
+<br>
 
 ## My Projects
 - [S.I.B](https://github.com/yogjesi/SIB)
@@ -62,21 +52,10 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 - [Agabot](https://grey-beryllium-938.notion.site/df430886ae9f475ca2ab128e4a7c9989)
 - [SSACOM](https://ninth-tax-ce2.notion.site/c000cf794ec14a3e875947da995ed7ce)
 
-
-
-
+<br>
 
 ## 📫 How to reach me: ...
 #### [Blog](https://blog.naver.com/runtoeternity)
-
-
-
-
-
-## ⚡ Another info...
-#### My major is 'Electronic Material Science Engineering'!
-#### And I majored 'English and literature' also.
-
 
 
 
