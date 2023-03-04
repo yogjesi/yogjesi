@@ -1,19 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Jiwon's%20git&fontSize=50&fontColor=79254a&animation=fadeIn)
 
+<div align="center">
 
 # Hi there 👋
 
 ### Thank you for visit my Git!
 
-if you want to read my portfolio, [Click Here](https://www.notion.so/Jiwon-s-Portfolio-ed735ae41a4944089ab4cedfc7a2c419?pvs=4)!
+If you want to read my portfolio, [Click Here](https://www.notion.so/Jiwon-s-Portfolio-ed735ae41a4944089ab4cedfc7a2c419?pvs=4)!
+
+You can see what I've done and who I am.
+
+And if you want to reach me, please come to my [blog](https://blog.naver.com/runtoeternity) and send me an e-mail.
 
 <br>
 
-## 🎓Learned
+## 📖Learned
 
-#### Major
+### 🎓Major
 
 Majored Electronic Material Science Engineering, and Double Majored English and Literature
+
+<br>
+
+### 🛠️Stacks
 
 #### Language
 
@@ -23,21 +32,18 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-round&logo=django&logoColor=white)](github.com/yogjesi/S.I.B) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
 
-#### Others
+#### Others (At least once)
 
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)]()
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)]()
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)]()
-[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-round&logo=amazons3&logoColor=black)]()
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)]() [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)]() [![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)]() [![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-round&logo=amazons3&logoColor=black)]() 
 
 <br>
 
 ## 🌱 I’m currently learning ...
-#### [JAVA](https://github.com/yogjesi/javastudy)
+- [JAVA](https://github.com/yogjesi/javastudy)
 
 <br>
 
-## 🔭 BootCamp
+## 🔭 Boot Camp
 #### SSAFY (2021.07~2022.06)
 
 **Projects**
@@ -57,10 +63,7 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 <br>
 
-## 📫 How to reach me: ...
-#### [Blog](https://blog.naver.com/runtoeternity)
-
-
+</div>
 
 <!--
 **yogjesi/yogjesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
