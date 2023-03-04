@@ -5,6 +5,10 @@
 
 ### Thank you for visit my Git!
 
+if you want to read my portfolio, [Click Here](https://www.notion.so/Jiwon-s-Portfolio-ed735ae41a4944089ab4cedfc7a2c419?pvs=4)!
+
+
+
 
 
 ## 🎓Learned
@@ -15,31 +19,36 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 #### Language
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/yogjesi/S.I.B)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](github.com/yogjesi/S.I.B)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=black)](github.com/yogjesi/S.I.B) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)](github.com/yogjesi/S.I.B)
 
 #### Framework
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](github.com/yogjesi/S.I.B)
-
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-round&logo=django&logoColor=white)](github.com/yogjesi/S.I.B) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
 
 #### Others
 
-ROS2, Docker, AWS
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)](github.com/yogjesi/)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)]()
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)](github.com/yogjesi/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)]() ![AWS EC2](https://img.shields.io/badge/AWS EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS S3-569A31?style=flat-round&logo=amazons3&logoColor=black)
+
+
 
 
 
 
 ## 🌱 I’m currently learning ...
-#### JAVA
+#### [JAVA](https://github.com/yogjesi/javastudy)
+
+
 
 
 
 ## 🔭 BootCamp
 #### SSAFY (2021.07~2022.06)
+
+**Projects**
+
+- [Fitmate](https://github.com/yogjesi/fitmate)
+- [Agabot](https://grey-beryllium-938.notion.site/df430886ae9f475ca2ab128e4a7c9989)
+- [SSACOM](https://ninth-tax-ce2.notion.site/c000cf794ec14a3e875947da995ed7ce)
 
 
 
@@ -47,13 +56,20 @@ ROS2, Docker, AWS
 
 
 ## My Projects
-[S.I.B](https://github.com/yogjesi/SIB)
+- [S.I.B](https://github.com/yogjesi/SIB)
+
+- [Fitmate](https://github.com/yogjesi/fitmate)
+- [Agabot](https://grey-beryllium-938.notion.site/df430886ae9f475ca2ab128e4a7c9989)
+- [SSACOM](https://ninth-tax-ce2.notion.site/c000cf794ec14a3e875947da995ed7ce)
+
+
 
 
 
 ## 📫 How to reach me: ...
-#### [E-mail](runtoeternity@naver.com)
 #### [Blog](https://blog.naver.com/runtoeternity)
+
+
 
 
 
@@ -73,5 +89,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- 
--->
+- -->
