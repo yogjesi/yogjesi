@@ -1,5 +1,31 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Jiwon's%20git&fontSize=50&fontColor=79254a&animation=fadeIn)
+
 # Hi there 👋
+
 ### Thank you for visit my Git!
+
+
+
+## 🎓Learned
+
+#### Major
+
+Majored Electronic Material Science Engineering, and Double Majored English and Literature
+
+#### Language
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black)](github.com/yogjesi/S.I.B)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](github.com/yogjesi/S.I.B)
+
+#### Framework
+
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](github.com/yogjesi/S.I.B)
+
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
+
+#### Others
+
+ROS2, Docker, AWS
 
 
 
@@ -7,16 +33,14 @@
 
 
 ## 🌱 I’m currently learning ...
-#### - Python & Django
-#### - Javascript & Vue.js
-#### - ROS (now I've just started!)
+#### JAVA
 
 
 
 
 
-## 🔭 I’m currently studying in  ...
-#### SSAFY
+## 🔭 BootCamp
+#### SSAFY (2021.07~2022.06)
 
 
 
