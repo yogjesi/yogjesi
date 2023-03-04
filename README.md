@@ -21,7 +21,7 @@ And if you want to reach me, please come to my [blog](https://blog.naver.com/run
 
 ### 📖Learned
 
-#### 🎓Major
+### 🎓Major
 
 Majored Electronic Material Science Engineering, and Double Majored English and Literature
 
@@ -29,23 +29,21 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 <br>
 
-#### 🛠️Stacks
+### 🛠️Stacks
 
-##### Language
+#### Language
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=black)](github.com/yogjesi/S.I.B) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)]() [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-round&logo=css3&logoColor=white)]()
 
-##### Framework
+#### Framework
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-round&logo=django&logoColor=white)](github.com/yogjesi/S.I.B) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=vue.js&logoColor=black)](github.com/yogjesi/S.I.B)
 
-##### Others (or At least once)
+#### Others (or At least once)
 
  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jirasoftware&logoColor=white)]() [![mm](https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white)]()  [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=github&logoColor=white)]() [![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-round&logo=gitlab&logoColor=white)]() 
 
-
-
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)]() [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)]() [![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-round&logo=amazons3&logoColor=black)]() [![REDIS](https://img.shields.io/badge/Redis-DC382D?style=flat-round&logo=redis&logoColor=white)]() [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white)]() 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=docker&logoColor=white)]() [![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)]() [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)]() [![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-round&logo=amazons3&logoColor=black)]() [![REDIS](https://img.shields.io/badge/Redis-DC382D?style=flat-round&logo=redis&logoColor=white)]() [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white)]() 
 
 <br>
 
