@@ -49,7 +49,7 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 <br>
 
-### 🌱 I’m currently learning ...
+### 🌱 Current
 
 ##### [JAVA](https://github.com/yogjesi/javastudy)
 
@@ -63,7 +63,7 @@ Please check more specific things what I've done in SSAFY in my portfolio or che
 
 <br>
 
-### 📜My Projects
+### 📜Projects
 
 #### [S.I.B](https://github.com/yogjesi/SIB)
 
