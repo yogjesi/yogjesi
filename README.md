@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Jiwon's%20git&fontSize=50&fontColor=79254a&animation=fadeIn)
 
+
 # Hi there 👋
 
 ### Thank you for visit my Git!
@@ -26,16 +27,14 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 #### Others
 
 ROS2, Docker, AWS
-
-
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)](github.com/yogjesi/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)]()
 
 
 
 
 ## 🌱 I’m currently learning ...
 #### JAVA
-
-
 
 
 
@@ -46,24 +45,21 @@ ROS2, Docker, AWS
 
 
 
+
+## My Projects
+[S.I.B](https://github.com/yogjesi/SIB)
+
+
+
 ## 📫 How to reach me: ...
-#### runtoeternity@naver.com
+#### [E-mail](runtoeternity@naver.com)
+#### [Blog](https://blog.naver.com/runtoeternity)
 
 
 
-
-
-
-## ⚡ Fun fact: ...
+## ⚡ Another info...
 #### My major is 'Electronic Material Science Engineering'!
 #### And I majored 'English and literature' also.
-
-
-
-
-
-how about 'readme'? Was it interesting? I hope you enjoy my place and have fun!
-
 
 
 
