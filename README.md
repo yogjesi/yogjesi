@@ -66,6 +66,8 @@ Please check more specific things what I've done in SSAFY in my portfolio or che
 #### [SSACOM](https://ninth-tax-ce2.notion.site/c000cf794ec14a3e875947da995ed7ce)
 
 <br>
+  
+[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogjesi&show_icons=true&theme=dracula)](https://github.com/yogjesi/github-readme-stats)
 
 </div>
 
