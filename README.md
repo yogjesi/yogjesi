@@ -25,7 +25,10 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 #### Others
 
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)](github.com/yogjesi/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)](github.com/yogjesi/) [![AWS EC2](https://img.shields.io/badge/AWS EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)](github.com/yogjesi/) [![AWS S3](https://img.shields.io/badge/AWS S3-569A31?style=flat-round&logo=amazons3&logoColor=black)](github.com/yogjesi/)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-round&logo=ROS&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)]()
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-round&logo=amazonec2&logoColor=black)]()
+[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-round&logo=amazons3&logoColor=black)]()
 
 <br>
 
