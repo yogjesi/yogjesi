@@ -53,6 +53,14 @@ Majored Electronic Material Science Engineering, and Double Majored English and 
 
 <br>
 
+### ℹ️📰T.M.I
+
+Nowdays, I study Spring boot with inf-learn and have started new T story blog.
+
+최근 인프런에서 스프링 부트 강의를 듣고 있고, T스토리 블로그를 막 새로 시작했어요!
+
+<br>
+
 ### 🔭 Boot Camp
 
 #### SSAFY (2021.07~2022.06)
@@ -73,7 +81,7 @@ Please check more specific things what I've done in SSAFY in my portfolio or che
 
 <br>
 
-[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogjesi&show_icons=true&theme=dracula)](https://github.com/yogjesi/github-readme-stats)
+[![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogjesi&count_private=true&show_icons=true&theme=dracula)](https://github.com/yogjesi/github-readme-stats)
 
 </div>
 
